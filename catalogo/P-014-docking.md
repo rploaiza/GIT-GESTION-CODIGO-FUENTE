@@ -1,16 +1,15 @@
 # Ficha de Producto
 
-- **Codigo:** P-0XX
-- **Nombre:**
-- **Categoria:**
-- **Precio (USD):**
-- **Stock:**
-- **Estado:** activo | inactivo
-- **Equipo responsable:** Equipo XX
+- **Codigo:** P-014
+- **Nombre:** Docking
+- **Categoria:** Inalambrica
+- **Precio (USD):** 20
+- **Stock:** 30
+- **Estado:** inactivo
+- **Equipo responsable:** Equipo TI
 
 ## Descripcion
-
-(2 o 3 lineas)
+Portal de conexión de varios dispositivos de comunicación.
 
 ## Historial de cambios
 
